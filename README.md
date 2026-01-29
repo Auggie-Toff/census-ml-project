@@ -66,8 +66,8 @@ jupyter notebook
 
 ## 👤 Author
 - Your Name — Loo Han Wei
-- LinkedIn: <www.linkedin.com/in/han-wei-loo-b8a82521a>
-- GitHub/Portfolio: <your-link>
+- LinkedIn: www.linkedin.com/in/han-wei-loo-b8a82521a
+- GitHub/Portfolio: Auggie-Toff
 
 ---
 
